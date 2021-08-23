@@ -1,0 +1,43 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h2{
+    display: inline;
+}
+
+.btn-ins{
+    float: right;
+}
+
+.big_image{
+    width: 100%;
+    height: 80%;
+}
+
+#btn-play{
+    font-size: 25px;
+    width: 150px;
+}
+
+#game{
+    width:100%;
+}
+
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
+
+video{
+    background: url('game_console.png');
+    background-position: center;
+    background-size: cover;
+}
+
+canvas{
+    border-color: black;
+    border-width: 3px;
+    border-radius: 20px;
+}
